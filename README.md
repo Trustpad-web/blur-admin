@@ -13,7 +13,7 @@ Customizable admin panel framework made with :heart: by [Akveo team](http://akve
 Here you can find Angular2 based version: [ng2-admin](https://github.com/akveo/ng2-admin).
 
 ### Documentation
-Installation, customization and other useful articles: https://akveo.github.io/blur-admin/
+Installation, customization and other useful articles: https://akveo.github.io/blur-admin/ 
 
 *If you have problems installing and just want to download JS and css files, you can find download links here*: http://akveo.github.io/blur-admin/articles/091-downloads/
 
